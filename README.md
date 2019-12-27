@@ -2,5 +2,5 @@
 
 ##### day02
 
-![day02](D:\Code\待业\day02.png)
+![day02](day02.png)
 
